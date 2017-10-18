@@ -18,6 +18,9 @@ I like the [about page](about.html)
 
 ### Here we go:
 
+We are in East Caribbean!!!!! Yeah!!!!!
+
 <img src="image/photo.jpg" style="width:75%">
 
 * NOTE: use html code to put image into your website will make your image look better
+
