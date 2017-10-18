@@ -24,3 +24,16 @@ We are in East Caribbean!!!!! Yeah!!!!!
 
 * NOTE: use html code to put image into your website will make your image look better
 
+### Styling
+
+Default themes in Rstudio: Bootswatch
+
+or 
+
+CSS
+
+Example Code:
+
+output:
+  html_document:
+    theme: cosmo
