@@ -1,0 +1,23 @@
+---
+title: "Hello World!"
+---
+
+### I have a webpage!
+
+And I can put all kinds of stuff on it! Really, I can write whatever :-)
+
+### Let's have a link
+
+My favorite website is [youtube](https://www.youtube.com/).
+
+* NOTE: Use font awesome to find interesting icon
+
+I like the [about page](about.html)
+
+* NOTE: The above line will direct you if the current page have the about.html (adjacent webpage in the same website).
+
+### Here we go:
+
+<img src="image/photo.jpg" style="width:75%">
+
+* NOTE: use html code to put image into your website will make your image look better
